@@ -51,7 +51,7 @@ round-avatar: true
 social-network-links:
   email: "vikas.aragam@gmail.com"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: vikas.aragam
+  #facebook: vikas.aragam
   github: vikasaragam
   #twitter: daattali
   #patreon: DeanAttali
