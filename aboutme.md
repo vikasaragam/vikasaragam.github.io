@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Theoretical physicist, research scientist, quantitative problem solver 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! Thanks for visiting my nascent webpage. I'm still figuring out how to fill this with useful info, but in the meantime I'd like to mention a few things about myself:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- I'm currently a PhD student in the Weinberg Theory Group at UT Austin, with my research focusing on quantum effects in the early universe
+- I'm fascinated by mathematical modeling and its application to basic science and real-world problem solving
+- My favorite pastimes include vegetarian cooking, smoothie-making, basketball analysis, and reading longform articles
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Details to come soon!
